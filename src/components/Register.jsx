@@ -75,7 +75,6 @@ function Register() {
                 })
                 navigate('/login')
             }, 1000);
-            
         }
         else {
             //    setLoading(false) 
